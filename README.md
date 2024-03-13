@@ -1,6 +1,6 @@
 # End-to-End MLOps
 
-## For a general usecase we are implementing the traditional "Neural Style Transfer" using PyTorch and extending its lifecycle with the help of MLOps priciples
+### For a general usecase we are implementing the traditional "Neural Style Transfer" using PyTorch and extending its lifecycle with the help of MLOps priciples
 
 ## Tasks Completed
 
